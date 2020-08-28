@@ -1,0 +1,5 @@
+/Users/katie/C_sharp/C_pract/obj/Debug/net5.0/C_pract.csprojAssemblyReference.cache
+/Users/katie/C_sharp/C_pract/obj/Debug/net5.0/C_pract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katie/C_sharp/C_pract/obj/Debug/net5.0/C_pract.AssemblyInfoInputs.cache
+/Users/katie/C_sharp/C_pract/obj/Debug/net5.0/C_pract.AssemblyInfo.cs
+/Users/katie/C_sharp/C_pract/obj/Debug/net5.0/C_pract.csproj.CoreCompileInputs.cache

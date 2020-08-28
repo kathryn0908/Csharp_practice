@@ -1,0 +1,10 @@
+/Users/katie/C_sharp/C_pract/IntroLibrary/bin/Debug/net5.0/IntroLibrary.deps.json
+/Users/katie/C_sharp/C_pract/IntroLibrary/bin/Debug/net5.0/IntroLibrary.dll
+/Users/katie/C_sharp/C_pract/IntroLibrary/bin/Debug/net5.0/IntroLibrary.pdb
+/Users/katie/C_sharp/C_pract/IntroLibrary/obj/Debug/net5.0/IntroLibrary.csprojAssemblyReference.cache
+/Users/katie/C_sharp/C_pract/IntroLibrary/obj/Debug/net5.0/IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katie/C_sharp/C_pract/IntroLibrary/obj/Debug/net5.0/IntroLibrary.AssemblyInfoInputs.cache
+/Users/katie/C_sharp/C_pract/IntroLibrary/obj/Debug/net5.0/IntroLibrary.AssemblyInfo.cs
+/Users/katie/C_sharp/C_pract/IntroLibrary/obj/Debug/net5.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/Users/katie/C_sharp/C_pract/IntroLibrary/obj/Debug/net5.0/IntroLibrary.dll
+/Users/katie/C_sharp/C_pract/IntroLibrary/obj/Debug/net5.0/IntroLibrary.pdb

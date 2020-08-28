@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "IntroLibrary/1.0.0": {
+        "type": "project",
+        "framework": "net5.0",
+        "compile": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroLibrary/1.0.0": {
+      "type": "project",
+      "path": "../IntroLibrary/IntroLibrary.csproj",
+      "msbuildProject": "../IntroLibrary/IntroLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "IntroLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/katie/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/katie/C_sharp/C_pract/IntroUI/IntroUI.csproj",
+      "projectName": "IntroUI",
+      "projectPath": "/Users/katie/C_sharp/C_pract/IntroUI/IntroUI.csproj",
+      "packagesPath": "/Users/katie/.nuget/packages/",
+      "outputPath": "/Users/katie/C_sharp/C_pract/IntroUI/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/katie/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/katie/C_sharp/C_pract/IntroLibrary/IntroLibrary.csproj": {
+              "projectPath": "/Users/katie/C_sharp/C_pract/IntroLibrary/IntroLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.8.20417.9/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+/Users/katie/C_sharp/C_pract/IntroUI/bin/Debug/net5.0/IntroUI.deps.json
+/Users/katie/C_sharp/C_pract/IntroUI/bin/Debug/net5.0/IntroUI.runtimeconfig.json
+/Users/katie/C_sharp/C_pract/IntroUI/bin/Debug/net5.0/IntroUI.runtimeconfig.dev.json
+/Users/katie/C_sharp/C_pract/IntroUI/bin/Debug/net5.0/IntroUI.dll
+/Users/katie/C_sharp/C_pract/IntroUI/bin/Debug/net5.0/IntroUI.pdb
+/Users/katie/C_sharp/C_pract/IntroUI/bin/Debug/net5.0/IntroLibrary.dll
+/Users/katie/C_sharp/C_pract/IntroUI/bin/Debug/net5.0/IntroLibrary.pdb
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.csprojAssemblyReference.cache
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.AssemblyInfoInputs.cache
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.AssemblyInfo.cs
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.csproj.CoreCompileInputs.cache
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.csproj.CopyComplete
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.dll
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.pdb
+/Users/katie/C_sharp/C_pract/IntroUI/obj/Debug/net5.0/IntroUI.genruntimeconfig.cache
